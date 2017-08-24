@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "698656738819",
+    "firebase_url": "https://onefriend-e6a9e.firebaseio.com",
+    "project_id": "onefriend-e6a9e",
+    "storage_bucket": "onefriend-e6a9e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698656738819:android:31ae21e6af540330",
+        "android_client_info": {
+          "package_name": "activity_login.onefriend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698656738819-7q9796homt0d7ru3pj71t66qnkdc3pjj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "activity_login.onefriend",
+            "certificate_hash": "356c457a994d8819992f8c7a30da3ccebcb59cc8"
+          }
+        },
+        {
+          "client_id": "698656738819-h50g2und09de3r4vcor55v8r9dt50aak.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFymGQpIECSNkHtPZuXqTJBLzfn4JwBWk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698656738819-h50g2und09de3r4vcor55v8r9dt50aak.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
